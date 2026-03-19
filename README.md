@@ -1,9 +1,9 @@
 ## Well hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## 🤔 Who I am ...
-- [technical writer](https://deepchecks.com/why-you-need-ml-monitoring-for-data-quality-issues/)
 - [machine learning engineer](https://github.com/educatorsRlearners/book-maturity/blob/master/readme.md)
 - [data scientist/analyst](https://www.kaggle.com/code/evansimpson/eda-for-commonlit-reading-prize)
+- [technical writer](https://deepchecks.com/why-you-need-ml-monitoring-for-data-quality-issues/)
 - [language assessment expert](https://www.britishcouncil.cn/en/exams/EAAST/event1)
 - [educator/teacher trainer](https://www.britishcouncil.cn/en/EAAST/clients#:~:text=%E2%80%9CEvan%20was%20definitely,British%20Council%2C%20Indonesia) 
 
