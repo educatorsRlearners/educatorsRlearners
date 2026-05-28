@@ -12,6 +12,8 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt='python'/>
+  <img src="https://raw.githubusercontent.com/educatorsRlearners/assets/refs/heads/main/icons/icons8-software-tableau.svg" alt="Tableau"/>
+  <img src="https://raw.githubusercontent.com/educatorsRlearners/assets/refs/heads/main/icons/Dbt-Icon--Streamline-Svg-Logos.svg" width='45' alt='dbt'/>
   <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png" alt="R"/>
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
