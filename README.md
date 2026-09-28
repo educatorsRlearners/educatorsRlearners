@@ -24,6 +24,7 @@
 <p align="center">
   <a href="https://github.com/educatorsRlearners/hugging_face_course"><img src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg' alt="huggingface"/></a>
   <img src='https://cdn.icon-icons.com/icons2/2699/PNG/96/amazon_aws_logo_icon_170593.png'/>
+  <a href="https://github.com/educatorsRlearners/write-like-a-reader/blob/main/README.md"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="96" alt="AI Agents"/></a>
 </p>
 
 ## 🔔 Where you can follow me ... 
@@ -31,7 +32,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/evansimpson1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://notesfromafullstackdatascientist.substack.com/?utm_source=github&utm_medium=referral&utm_campaign=evan_substack&utm_content=readme">
-    <img src="https://icons8.com/icon/kcZe5woKzcQY/substack" alt="substack"/></a>
+    <img src="https://img.icons8.com/ios-filled/50/substack.png" alt="substack"/></a>
   <a href="https://medium.com/@pevansimpson"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="medium"/></a>
 </p>
 
