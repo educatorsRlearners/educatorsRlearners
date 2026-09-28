@@ -30,6 +30,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/evansimpson1/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://notesfromafullstackdatascientist.substack.com/?utm_source=github&utm_medium=referral&utm_campaign=evan_substack&utm_content=readme">
+    <img src="https://icons8.com/icon/kcZe5woKzcQY/substack" alt="substack"/></a>
   <a href="https://medium.com/@pevansimpson"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="medium"/></a>
 </p>
 
