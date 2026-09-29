@@ -21,6 +21,7 @@
 </p>
 
 ## 🌱 What I am currently learning ...
+<p align="center">
   <a href="https://github.com/educatorsRlearners/write-like-a-reader/blob/main/README.md"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="96" alt="AI Agents"/></a>
 </p>
 
