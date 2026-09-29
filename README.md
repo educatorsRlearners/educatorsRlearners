@@ -21,11 +21,7 @@
 </p>
 
 ## 🌱 What I am currently learning ...
-<p align="center">
-  <a href="https://github.com/educatorsRlearners/hugging_face_course"><img src='https://huggingface.co/front/assets/huggingface_logo-noborder.svg' alt="huggingface"/></a>
   <a href="https://github.com/educatorsRlearners/write-like-a-reader/blob/main/README.md"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="96" alt="AI Agents"/></a>
-  <img src='https://cdn.icon-icons.com/icons2/2699/PNG/96/amazon_aws_logo_icon_170593.png'/>
-
 </p>
 
 ## 🔔 Where you can follow me ... 
